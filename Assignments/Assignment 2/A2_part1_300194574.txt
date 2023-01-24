@@ -1,0 +1,200 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:57:54) [MSC v.1924 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+======= RESTART: C:\Users\makos\Desktop\School work\A2_part1_300194574.py ======
+>>> elementary_school_quiz(0,2)
+question 1 :
+ What is 3 - 8? 3
+That is not correct.
+question 2 :
+ What is 1 - 0? 4
+That is not correct.
+You answered 0/2 answers correctly!
+I think you might need a little more practise! Feel free to try again. Bye.
+>>> elementary_school_quiz(1,1)
+question 1 :
+What is 4^8? 5
+That is not correct
+You answered 0/1 answers correctly!
+I think you might need a little more practise! Feel free to try again. Bye
+>>> elementary_school_quiz(1,1)
+question 1 :
+What is 9^0? 1
+You are correct.
+You answered 1/1 answers correctly!
+Good job, You will probably get an A tommorow! Goodbye
+>>> elementary_school_quiz(1,2)
+question 1 :
+What is 9^8? 65
+That is not correct
+question 2 :
+What is 6^9? 6
+That is not correct
+You answered 0/2 answers correctly!
+I think you might need a little more practise! Feel free to try again. Bye
+>>> 
+>>> high_school_quiz(1,3,1)
+The quadratic equation 1*x^2 + 3*x + 1 
+has the following real roots : -0.3819660112501051 
+ and -2.618033988749895
+>>> high_school_quiz(3,2,15)
+The quadratic equation 3*x^2 + 2*x + 15 
+has the following complexe roots :  -0.3333333333333333+i*2.2110831935702664 and  -0.3333333333333333-i*2.2110831935702664
+>>> high_school_quiz(3,2,-15)
+The quadratic equation 3*x^2 + 2*x + -15 
+has the following real roots : 1.9274433277084226 
+ and -2.5941099943750894
+>>> high_school_quiz(1,2,1)
+The quadratic equation 1*x^2 + 2*x + 1 
+only has one real root : -1.0
+>>> high_school_quiz(0,2,4)
+the linear function : 2*x + 4
+has the following root/solution x=-2.0
+>>> high_school_quiz(0,0,0)
+The quadratic equation 0*x^2 + 0*x + 0 
+is satisfied by all number for x
+>>> high_school_quiz(0,0,10)
+The quadratic equation 0*x^2 + 0*x + 10 
+ The equation is satisfied for no number for x
+>>> #attempt 1
+>>> start()
+*************************************************
+*        Welcome to my math quiz tool!          *
+*************************************************
+ 
+What is your name? Scott
+Hello Scott! Please enter : 
+1 if you are in elementary school 
+2 if you are in highschool 
+3 if none of these apply to you. 1
+Scott would you like to practise your substraction? Yes or No?yes
+*************************************************
+*              Substraction quiz!               *
+*************************************************
+How many questions would you like?3
+here are your 3 question : 
+question 1 :
+ What is 0 - 3? -3
+You are correct.
+question 2 :
+ What is 0 - 7? -7
+You are correct.
+question 3 :
+ What is 9 - 0? 9
+You are correct.
+You answered 3/3 answers correctly!
+Good job, You will probably get an A tommorow! Goodbye.
+>>> start()
+*************************************************
+*        Welcome to my math quiz tool!          *
+*************************************************
+ 
+What is your name? Danny
+Hello Danny! Please enter : 
+1 if you are in elementary school 
+2 if you are in highschool 
+3 if none of these apply to you. 3
+This program is to test elementary school kids and help highschool students.
+This program will most likely not have any use for you. If it does feel 
+free to use this program again by typing start().
+>>> #attempt #3
+>>> start()
+*************************************************
+*        Welcome to my math quiz tool!          *
+*************************************************
+ 
+What is your name? Josh
+Hello Josh! Please enter : 
+1 if you are in elementary school 
+2 if you are in highschool 
+3 if none of these apply to you. 2
+*************************************************
+* Quadratic equation (a*x^2 + b*x + c) solver!  *
+*************************************************
+Josh would you like to solve a quadratic equation? Yes or No?yes
+Please input coefficient a1
+Please input coefficient b2
+Please input coefficient c3
+The quadratic equation 1.0*x^2 + 2.0*x + 3.0 
+has the following complexe roots :  -1.0+i*1.4142135623730951 and  -1.0-i*1.4142135623730951
+
+Would you like to solve another equation? Yes or no? yes
+Please input coefficient a-1
+Please input coefficient b10
+Please input coefficient c36
+The quadratic equation -1.0*x^2 + 10.0*x + 36.0 
+has the following real roots : -2.810249675906654 
+ and 12.810249675906654
+
+Would you like to solve another equation? Yes or no? yes
+Please input coefficient a0
+Please input coefficient b2.5
+Please input coefficient c3.246
+the linear function : 2.5*x + 3.246
+has the following root/solution x=-1.2984
+
+Would you like to solve another equation? Yes or no? yes
+Please input coefficient a0
+Please input coefficient b0
+Please input coefficient c2.5
+The quadratic equation 0.0*x^2 + 0.0*x + 2.5 
+ The equation is satisfied for no number for x
+
+Would you like to solve another equation? Yes or no? yes
+Please input coefficient a0
+Please input coefficient b0
+Please input coefficient c0
+The quadratic equation 0.0*x^2 + 0.0*x + 0.0 
+is satisfied by all number for x
+
+Would you like to solve another equation? Yes or no? no
+Thank you for using our program Josh. Feel free to use it again.
+>>> #attempt 4
+>>> start()
+*************************************************
+*        Welcome to my math quiz tool!          *
+*************************************************
+ 
+What is your name? HAHA
+Hello HAHA! Please enter : 
+1 if you are in elementary school 
+2 if you are in highschool 
+3 if none of these apply to you. 1
+HAHA would you like to practise your substraction? Yes or No?no
+HAHA would you like to practise your exponentiation? Yes or No?no
+No options were chosen. If you wish to try again type 'start()'. Goodbye HAHA!
+>>> #attempt 5
+>>> start()
+*************************************************
+*        Welcome to my math quiz tool!          *
+*************************************************
+ 
+What is your name? Stan
+Hello Stan! Please enter : 
+1 if you are in elementary school 
+2 if you are in highschool 
+3 if none of these apply to you. 1
+Stan would you like to practise your substraction? Yes or No?yes
+*************************************************
+*              Substraction quiz!               *
+*************************************************
+How many questions would you like?5
+here are your 5 question : 
+question 1 :
+ What is 9 - 0? 9
+You are correct.
+question 2 :
+ What is 6 - 3? 3
+You are correct.
+question 3 :
+ What is 6 - 7? 4
+That is not correct.
+question 4 :
+ What is 8 - 1? 5
+That is not correct.
+question 5 :
+ What is 4 - 1? 2
+That is not correct.
+You answered 2/5 answers correctly!
+I think you might need a little more practise! Feel free to try again. Bye.
+>>> 
