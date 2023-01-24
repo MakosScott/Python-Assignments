@@ -1,0 +1,117 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:57:54) [MSC v.1924 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:\Users\makos\Desktop\a3_part_1_xxxxxx (1).py ===========
+************************************************
+*      __Welcome to up-monotone inquiry__      *
+************************************************
+What is your name 	 Scott
+************************************************
+* __Scott, welcome to up-monotone inquiry__  *
+************************************************
+Scott, would you like to test if a number admits an up-monotone split of given size?      sure
+Please input Yes or No. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? sure
+Please input Yes or No. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yEs
+Good choice!
+Please enter a positive Integer 123156
+Input the split. The split has to divide the length of 123156 i.e. 64
+4 does not devide 6. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? YES
+Good choice!
+Please enter a positive Integer           123156
+Input the split. The split has to divide the length of 123156 i.e. 63
+123, 156
+The sequence is up-monotonous.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 3.4
+The Input can only be an integer(no decimals). Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer -44
+The Input can only be positive(+). Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 3331
+Input the split. The split has to divide the length of 3331 i.e. 42
+33, 31
+The sequence is not up-monotonous
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer twenty
+The Input can only contain digits. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yeS
+Good choice!
+Please enter a positive Integer 4321
+Input the split. The split has to divide the length of 4321 i.e. 4                         1
+4, 3, 2, 1
+The sequence is not up-monotonous
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer        4321
+Input the split. The split has to divide the length of 4321 i.e. 44
+4321
+The sequence is up-monotonous.
+Scott, would you like to test if a number admits an up-monotone split of given size?      yes
+Good choice!
+Please enter a positive Integer -2.5
+The Input can only be positive(+). Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 0
+The Input can only be positive(+). Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer             0
+The Input can only be positive(+). Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer             77
+Input the split. The split has to divide the length of 77 i.e. 22
+77
+The sequence is up-monotonous.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 22
+Input the split. The split has to divide the length of 22 i.e. 2-5
+The Input can only contain digits. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 345
+Input the split. The split has to divide the length of 345 i.e. 34
+4 does not devide 3. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? 345
+Please input Yes or No. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 345
+Input the split. The split has to divide the length of 345 i.e. 310
+10 does not devide 3. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer       213411800
+Input the split. The split has to divide the length of 213411800 i.e. 9        5
+        5 does not devide 9. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 213411800
+Input the split. The split has to divide the length of 213411800 i.e. 93
+213, 411, 800
+The sequence is up-monotonous.
+Scott, would you like to test if a number admits an up-monotone split of given size? yes
+Good choice!
+Please enter a positive Integer 001230
+Input the split. The split has to divide the length of 001230 i.e. 63
+001, 230
+The sequence is up-monotonous.
+Scott, would you like to test if a number admits an up-monotone split of given size? uf
+Please input Yes or No. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size? .....NO
+Please input Yes or No. Try again.
+Scott, would you like to test if a number admits an up-monotone split of given size?       NO
+************************************************
+*              __Good bye Scott!__             *
+************************************************
+>>> 

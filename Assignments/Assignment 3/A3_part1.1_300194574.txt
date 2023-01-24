@@ -1,0 +1,40 @@
+Python 3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:57:54) [MSC v.1924 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============ RESTART: C:\Users\makos\Desktop\a3_part_1_xxxxxx (1).py ===========
+************************************************
+*      __Welcome to up-monotone inquiry__      *
+************************************************
+What is your name 	 Scott
+************************************************
+* __Scott, welcome to up-monotone inquiry__  *
+************************************************
+Scott, would you like to test if a number admits an up-monotone split of given size? no
+************************************************
+*              __Good bye Scott!__             *
+************************************************
+>>> is_up_monotone("12311234","2")
+12, 31, 12, 34
+False
+>>> is_up_monotone ("12311234","4")
+1231, 1234
+True
+>>> is_up_monotone("0012311234","2")
+00, 12, 31, 12, 34
+False
+>>> is_up_monotone("0012311234","5")
+00123, 11234
+True
+>>> is_up_monotone("1","1")
+1
+True
+>>> is_up_monotone("1","1")
+1
+True
+>>> is_up_monotone("734","1")
+7, 3, 4
+False
+>>> is_up_monotone("734","3")
+734
+True
+>>> 
